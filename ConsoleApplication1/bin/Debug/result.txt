@@ -1,0 +1,1491 @@
+{
+  "threads": [
+    {
+      "id": 1,
+      "time": 65,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.0657156",
+        "ElapsedMilliseconds": 65,
+        "ElapsedTicks": 140982
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 30,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 20,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 28,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "time": 65,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.0656667",
+        "ElapsedMilliseconds": 65,
+        "ElapsedTicks": 140877
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 30,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 20,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 28,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <threads>
+    <ThreadResult>
+      <id>1</id>
+      <time>65</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>30</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>20</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>28</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+    <ThreadResult>
+      <id>3</id>
+      <time>65</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>30</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>20</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>28</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+  </threads>
+</TraceResult>{
+  "threads": [
+    {
+      "id": 1,
+      "time": 64,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.0645447",
+        "ElapsedMilliseconds": 64,
+        "ElapsedTicks": 138470
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 30,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 20,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 29,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "time": 64,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.0644683",
+        "ElapsedMilliseconds": 64,
+        "ElapsedTicks": 138306
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 30,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 20,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 29,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <threads>
+    <ThreadResult>
+      <id>1</id>
+      <time>64</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>30</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>20</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>29</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+    <ThreadResult>
+      <id>3</id>
+      <time>64</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>30</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>20</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>29</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+  </threads>
+</TraceResult>{
+  "threads": [
+    {
+      "id": 1,
+      "time": 184,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.1843294",
+        "ElapsedMilliseconds": 184,
+        "ElapsedTicks": 395448
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 39,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 28,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "time": 184,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.1843504",
+        "ElapsedMilliseconds": 184,
+        "ElapsedTicks": 395493
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 38,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 28,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <threads>
+    <ThreadResult>
+      <id>1</id>
+      <time>184</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>39</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>28</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+    <ThreadResult>
+      <id>3</id>
+      <time>184</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>38</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>28</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+  </threads>
+</TraceResult>{
+  "threads": [
+    {
+      "id": 1,
+      "time": 1699,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:01.6994172",
+        "ElapsedMilliseconds": 1699,
+        "ElapsedTicks": 3645816
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 32,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 18,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 35,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "time": 1286,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:01.2867815",
+        "ElapsedMilliseconds": 1286,
+        "ElapsedTicks": 2760575
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 32,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 388,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 15,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <threads>
+    <ThreadResult>
+      <id>1</id>
+      <time>1699</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>32</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>18</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>35</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+    <ThreadResult>
+      <id>3</id>
+      <time>1286</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>32</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>388</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>15</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+  </threads>
+</TraceResult>{
+  "threads": [
+    {
+      "id": 1,
+      "time": 1113,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:01.1137837",
+        "ElapsedMilliseconds": 1113,
+        "ElapsedTicks": 2389437
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 34,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 28,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 18,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "time": 817,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.8173132",
+        "ElapsedMilliseconds": 817,
+        "ElapsedTicks": 1753409
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 34,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 188,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 18,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <threads>
+    <ThreadResult>
+      <id>1</id>
+      <time>1113</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>34</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>28</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>18</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+    <ThreadResult>
+      <id>3</id>
+      <time>817</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>34</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>188</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>18</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+  </threads>
+</TraceResult>{
+  "threads": [
+    {
+      "id": 1,
+      "time": 1780,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:01.7805072",
+        "ElapsedMilliseconds": 1780,
+        "ElapsedTicks": 3819781
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 36,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 34,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "time": 1347,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:01.3471992",
+        "ElapsedMilliseconds": 1347,
+        "ElapsedTicks": 2890191
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 36,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 35,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <threads>
+    <ThreadResult>
+      <id>1</id>
+      <time>1780</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>36</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>34</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+    <ThreadResult>
+      <id>3</id>
+      <time>1347</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>36</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>35</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+  </threads>
+</TraceResult>{
+  "threads": [
+    {
+      "id": 1,
+      "time": 258,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.2584204",
+        "ElapsedMilliseconds": 258,
+        "ElapsedTicks": 554398
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 34,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 20,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 29,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "time": 268,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.2684441",
+        "ElapsedMilliseconds": 268,
+        "ElapsedTicks": 575902
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 30,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 29,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <threads>
+    <ThreadResult>
+      <id>1</id>
+      <time>258</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>34</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>20</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>29</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+    <ThreadResult>
+      <id>3</id>
+      <time>268</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>30</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>29</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+  </threads>
+</TraceResult>{
+  "threads": [
+    {
+      "id": 1,
+      "time": 67,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.0673755",
+        "ElapsedMilliseconds": 67,
+        "ElapsedTicks": 144543
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 32,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 20,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 30,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "time": 167,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.1675338",
+        "ElapsedMilliseconds": 167,
+        "ElapsedTicks": 359416
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 34,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 20,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 30,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 20,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <threads>
+    <ThreadResult>
+      <id>1</id>
+      <time>67</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>32</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>20</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>30</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+    <ThreadResult>
+      <id>3</id>
+      <time>167</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>34</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>20</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>30</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>20</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+  </threads>
+</TraceResult>{
+  "threads": [
+    {
+      "id": 1,
+      "time": 84,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.0848353",
+        "ElapsedMilliseconds": 84,
+        "ElapsedTicks": 182000
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 30,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 20,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 29,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "time": 63,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.0638474",
+        "ElapsedMilliseconds": 63,
+        "ElapsedTicks": 136974
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 30,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 20,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 29,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <threads>
+    <ThreadResult>
+      <id>1</id>
+      <time>84</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>30</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>20</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>29</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+    <ThreadResult>
+      <id>3</id>
+      <time>63</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>30</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>20</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>29</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+  </threads>
+</TraceResult>{
+  "threads": [
+    {
+      "id": 1,
+      "time": 77,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.0773842",
+        "ElapsedMilliseconds": 77,
+        "ElapsedTicks": 166015
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 38,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 20,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 29,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "time": 97,
+      "timer": {
+        "IsRunning": false,
+        "Elapsed": "00:00:00.0974109",
+        "ElapsedMilliseconds": 97,
+        "ElapsedTicks": 208979
+      },
+      "stack": [],
+      "methodsResults": [
+        {
+          "methodName": "kitchenStart",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 32,
+          "methods": [
+            {
+              "methodName": "cookFood",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "methodName": "kitchenStop",
+          "className": "ConsoleApplication1.Kitchen",
+          "time": 30,
+          "methods": [
+            {
+              "methodName": "cleanKitchen",
+              "className": "ConsoleApplication1.Cook",
+              "time": 19,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}<?xml version="1.0"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <threads>
+    <ThreadResult>
+      <id>1</id>
+      <time>77</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>38</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>20</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>29</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+    <ThreadResult>
+      <id>3</id>
+      <time>97</time>
+      <methodsResults>
+        <MethodResult>
+          <methodName>kitchenStart</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>32</time>
+          <methods>
+            <MethodResult>
+              <methodName>cookFood</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+        <MethodResult>
+          <methodName>kitchenStop</methodName>
+          <className>ConsoleApplication1.Kitchen</className>
+          <time>30</time>
+          <methods>
+            <MethodResult>
+              <methodName>cleanKitchen</methodName>
+              <className>ConsoleApplication1.Cook</className>
+              <time>19</time>
+              <methods />
+            </MethodResult>
+          </methods>
+        </MethodResult>
+      </methodsResults>
+    </ThreadResult>
+  </threads>
+</TraceResult>

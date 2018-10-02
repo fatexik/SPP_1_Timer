@@ -1,0 +1,10 @@
+C:\Users\vital\RiderProjects\spp_solution_v1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\vital\RiderProjects\spp_solution_v1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\vital\RiderProjects\spp_solution_v1\ConsoleApplication1\bin\Debug\TracerLibrary.dll
+C:\Users\vital\RiderProjects\spp_solution_v1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vital\RiderProjects\spp_solution_v1\ConsoleApplication1\bin\Debug\TracerLibrary.pdb
+C:\Users\vital\RiderProjects\spp_solution_v1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vital\RiderProjects\spp_solution_v1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vital\RiderProjects\spp_solution_v1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\vital\RiderProjects\spp_solution_v1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\vital\RiderProjects\spp_solution_v1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
